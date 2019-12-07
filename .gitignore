@@ -1,0 +1,6 @@
+OBJ/
+USER/motor_drive.uvoptx
+USER/motor_drive.uvguix.xiaomeng
+USER/startup_stm32f10x_hd.lst
+USER/motor_drive.map
+USER/DebugConfig/motor_drive_STM32F103ZE_1.0.0.dbgconf
